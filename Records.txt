@@ -1,0 +1,11 @@
+Purpose: to provide a reliable account of journey to becoming a Dev. 
+
+HTML - ODIN PROJECT
+
+
+
+CSS - ODIN PROJECT
+
+Sep 20 2022 - Completion of Block and Inline Elements + Introduction to Flexbox (flex container & flex-item).
+
+JAVASCRIPT - ODIN PROJECT
