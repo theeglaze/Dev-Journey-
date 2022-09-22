@@ -8,4 +8,6 @@ CSS - ODIN PROJECT
 
 Sep 20 2022 - Completion of Block and Inline Elements + Introduction to Flexbox (flex container & flex-item).
 
+Sep 21, 2022 - The Flex Shorthand (flex-grow, flex-shrink & flex-basis), additionally, commonly used flex values.
+
 JAVASCRIPT - ODIN PROJECT
