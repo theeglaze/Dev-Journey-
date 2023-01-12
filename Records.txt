@@ -16,4 +16,5 @@ Oct 3, 2022 - Axes & Alignment continued - introduced to varying alignment value
 
  Oct 5, 2022 - Axes & Alignment continued - align-self, auto margin gaps, media object, etc. completed.
  
+ Jan 11, 20223 - Axes & Alignment continued - differing CSS layout algorithms were introduced (Flow & Flex); aligning flex containers and flex items was the primary lesson.
 JAVASCRIPT - ODIN PROJECT
