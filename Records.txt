@@ -18,5 +18,8 @@ Oct 3, 2022 - Axes & Alignment continued - introduced to varying alignment value
  
  Jan 11, 20223 - Axes & Alignment continued - differing CSS layout algorithms were introduced (Flow & Flex); aligning flex containers and flex items was the primary lesson.
 
- Jan 18, 2023 - Additional articles about Flexbox properties: flex basis, min-width & max-width. Also, additional articles on varying Alignment Methods.  
+ Jan 18, 2023 - Additional articles about Flexbox properties: flex basis, min-width & max-width. Also, additional articles on varying Alignment Methods.
+
+ Jan 25, 2023 - The CSS exercises concerning flexbox provided by the odin project was started and completed up to exercise four (4) - path - (theeglaze/Odin-Project-Assignments/css-exercises/flex)  
+  
 JAVASCRIPT - ODIN PROJECT
