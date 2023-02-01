@@ -22,5 +22,8 @@ Oct 3, 2022 - Axes & Alignment continued - introduced to varying alignment value
 
  Jan 25, 2023 - The CSS exercises concerning flexbox provided by the odin project was started and completed up to exercise four (4) - path - (theeglaze/Odin-Project-Assignments/css-exercises/flex)  
 
- Jan 27, 2023 - CSS exercise 4 & 5 were completed. 
+ Jan 27, 2023 - CSS exercise 4 & 5 were completed.
+
+ Feb 1, 2023 - Exercise seven (7) marketed the completion of the css exercise provided by the Odin Project. I am now asked to build a website which will be stored in home/theeglaze/Odin-Project-Assignments/ Odin-Project/Project-One(Web Page). This webpage will be committed to the repository housing the Odin-Project-Assignments Folder. 
+ 
 JAVASCRIPT - ODIN PROJECT
