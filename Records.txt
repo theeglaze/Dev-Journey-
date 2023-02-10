@@ -26,8 +26,10 @@ Oct 3, 2022 - Axes & Alignment continued - introduced to varying alignment value
 
  Feb 1, 2023 - Exercise seven (7) marketed the completion of the css exercise provided by the Odin Project. I am now asked to build a website which will be stored in home/theeglaze/Odin-Project-Assignments/ Odin-Project/Project-One(Web Page). This webpage will be committed to the repository housing the Odin-Project-Assignments Folder. 
 
- Feb 3, 2023 - The home page was updated and styling has begun.
+ Feb 3, 2023 - The homepage was updated and styling has begun.
 
- Feb 8,2023 - The home page was updated and the heading of the page was completed. 
+ Feb 8, 2023 - The homepage was updated and the heading of the page was completed. 
+
+Feb 10, 2023 - The homepage was updated; new content and styling was introduced to the body and tail.
  
 JAVASCRIPT - ODIN PROJECT
