@@ -39,3 +39,5 @@ JAVASCRIPT - ODIN PROJECT
 Feb 15, 2023 - Introduction to JavaScript via the Odin Project. Topics: internal / external JavaScript, operators, operands, operations, variables, operator precedence, numbers and strings. 
 
 Feb 17, 2023 - Introduction to JavaScript continued.
+
+Mar 1, 2023 - Additional Aspects of javascript were introduced and a activity was completed provided by the Odin Project (ODP).
