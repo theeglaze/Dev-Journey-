@@ -41,3 +41,5 @@ Feb 15, 2023 - Introduction to JavaScript via the Odin Project. Topics: internal
 Feb 17, 2023 - Introduction to JavaScript continued.
 
 Mar 1, 2023 - Additional Aspects of javascript were introduced and a activity was completed provided by the Odin Project (ODP).
+
+Mar 3, 2023 - Introduction of eight (8) javascript data types. Currently an in depth analysis of the string data type is underway.  
