@@ -45,3 +45,11 @@ Mar 1, 2023 - Additional Aspects of javascript were introduced and a activity wa
 Mar 3, 2023 - Introduction of eight (8) javascript data types. Currently an in depth analysis of the string data type is underway. 
 
 Jun 13, 2023 - The Return: Once again the necessities of university life have derailed my journey to becoming a developer. However, with the ensuing summer break comes free time that will be used to revise and further my understanding of the front end space. Today marks the completion of my revision - encompassing HTML, CSS & Introductory Javascript. 
+
+Jun 14, 2023 - Replacing String Constants & Converting String to Array.
+
+Jun 14, 2023 - String properties and methods, Conditionals - Comparison, if , else, else if and switch case.
+
+June 15, 2023 - Introduced to JavaScript Logical Operators - OR, AND, NOT and NULLISH. 
+
+June 20, 2023 - Introduced to Ternary Operator and Practice Questions - comparison  nad logical operator questions.  
