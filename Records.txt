@@ -53,3 +53,7 @@ Jun 14, 2023 - String properties and methods, Conditionals - Comparison, if , el
 June 15, 2023 - Introduced to JavaScript Logical Operators - OR, AND, NOT and NULLISH. 
 
 June 20, 2023 - Introduced to Ternary Operator and Practice Questions - comparison  nad logical operator questions.  
+
+Jun 21, 2023 - ODP & other websites practice activities and questions about prior topics. 
+
+Jun 21, 2023 - Developer Tools (DevTools) - Revision for editing CSS and the introduction to console as a javascript editor within DevTools. Console features include: breakpoints, watch etc.  
