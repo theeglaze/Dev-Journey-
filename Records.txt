@@ -59,3 +59,7 @@ Jun 21, 2023 - ODP & other websites practice activities and questions about prio
 Jun 21, 2023 - Developer Tools (DevTools) - Revision for editing CSS and the introduction to console as a javascript editor within DevTools. Console features include: breakpoints, watch etc.  
 
 Jun 23, 2023 - Developer Tools (DevTools) - Introduced to Debugging JavaScript via Breakpoints and Overview of Console - functionality, logging messages and console methods.    
+
+Jun 24, 2023 - Introduced to JavaScript Functions - Function Syntax, Types of Functions (Custom, Anonymous & Arrow), Function Parameters, Function Scope / Conflict and Return Values.
+
+Jun 25, 2023 - Additional information about functions in JavaScript - Syntax, Parameters (default values), Return values and Callback Functions. 
