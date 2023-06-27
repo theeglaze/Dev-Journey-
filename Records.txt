@@ -64,4 +64,8 @@ Jun 24, 2023 - Introduced to JavaScript Functions - Function Syntax, Types of Fu
 
 Jun 25, 2023 - Additional information about functions in JavaScript - Syntax, Parameters (default values), Return values and Callback Functions. 
 
-Jun 26, 2023 - JavaScript Functions Continued - Function Expression vs Function Declaration, Function Block Scope, Arrow Functions and Call Stack. 
+Jun 26, 2023 - JavaScript Functions Continued - Function Expression vs Function Declaration, Function Block Scope, Arrow Functions and Call Stack.
+
+Jun 27, 2023 - JS Functions Completed. 
+
+Jun 27, 2023 - Odin Project Problem Solving - Learning how to think like a programmer. Problem Solving steps >> 1. Understand Problem, 2. Planning, 3.Pseudocode, 4. Divide and Conquer.  
