@@ -68,4 +68,6 @@ Jun 26, 2023 - JavaScript Functions Continued - Function Expression vs Function 
 
 Jun 27, 2023 - JS Functions Completed. 
 
-Jun 27, 2023 - Odin Project Problem Solving - Learning how to think like a programmer. Problem Solving steps >> 1. Understand Problem, 2. Planning, 3.Pseudocode, 4. Divide and Conquer.  
+Jun 27, 2023 - Odin Project Problem Solving - Learning how to think like a programmer. Problem Solving steps >> 1. Understand Problem, 2. Planning, 3.Pseudocode, 4. Divide and Conquer. 
+
+Jun 28, 2023 - Completed Problem solving lessons and started lesson explain Error Messages - reference errors, syntax errors, etc. 
