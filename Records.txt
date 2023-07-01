@@ -71,3 +71,7 @@ Jun 27, 2023 - JS Functions Completed.
 Jun 27, 2023 - Odin Project Problem Solving - Learning how to think like a programmer. Problem Solving steps >> 1. Understand Problem, 2. Planning, 3.Pseudocode, 4. Divide and Conquer. 
 
 Jun 28, 2023 - Completed Problem solving lessons and started lesson explain Error Messages - reference errors, syntax errors, etc. 
+
+Jun 30, 2023 - Completed Error Message lessons. 
+
+Jun 30, 2023 - The ODP assigned project number two. I am tasked with using JavaScript to create a rock, paper, scissors game that operates in the console. The game is between the user and computer and is stored in the Odin Project repo under project-two-(Rock,Paper,Scissors). 
