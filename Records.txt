@@ -79,3 +79,7 @@ Jun 30, 2023 - The ODP assigned project number two. I am tasked with using JavaS
 July 3, 2023 - Completed Rock Paper Scissors JS Script - it is now functional and found in Odin Projects repo.
 
 Jul 4, 2023 - Lesson 1: Steps to keep your code clean, lesson 2: installing node.js and lesson 3: Introduction to arrays and common array methods. 
+
+Jul 5, 2023 - Lesson 3 completed with the examination of arrays, array methods. Lesson 4 introduced loops.
+
+Jul 6, 2023 - Lesson 4 completed - for...of, for, while and do while loops all introduced and examined. Completed MDN exercises.
