@@ -83,3 +83,5 @@ Jul 4, 2023 - Lesson 1: Steps to keep your code clean, lesson 2: installing node
 Jul 5, 2023 - Lesson 3 completed with the examination of arrays, array methods. Lesson 4 introduced loops.
 
 Jul 6, 2023 - Lesson 4 completed - for...of, for, while and do while loops all introduced and examined. Completed MDN exercises.
+
+Jul 12, 2023 - Completed lessons on arrays, loops and utilizing function arguments - variadic functions. Currently completing javascript exercises provided by The Odin Project (TOP).  
