@@ -87,3 +87,5 @@ Jul 6, 2023 - Lesson 4 completed - for...of, for, while and do while loops all i
 Jul 12, 2023 - Completed lessons on arrays, loops and utilizing function arguments - variadic functions. Currently completing javascript exercises provided by The Odin Project (TOP). 
 
 Jul 13, 2023 - Completed TOP javascript exercise 5 and 6.
+
+jul 14, 2023 - Completed TOP javascript exercises 7 and 8.
