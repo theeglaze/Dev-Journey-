@@ -88,4 +88,7 @@ Jul 12, 2023 - Completed lessons on arrays, loops and utilizing function argumen
 
 Jul 13, 2023 - Completed TOP javascript exercise 5 and 6.
 
-jul 14, 2023 - Completed TOP javascript exercises 7 and 8.
+Jul 14, 2023 - Completed TOP javascript exercises 7 and 8.
+
+Jul 21, 2023 - Completed TOP javascript exercise 9 & 10. 
+
