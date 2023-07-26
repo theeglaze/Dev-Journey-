@@ -92,5 +92,7 @@ Jul 14, 2023 - Completed TOP javascript exercises 7 and 8.
 
 Jul 21, 2023 - Completed TOP javascript exercise 9 & 10. 
 
-Jul 24, 2023 - completed TOP javascript exercise 11 & 12. 
+Jul 24, 2023 - Completed TOP javascript exercise 11 & 12.
+
+Jul 26, 2023 - TOP Lesson - DOM Manipulation and Events
 
