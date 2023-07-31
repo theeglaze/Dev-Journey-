@@ -94,5 +94,7 @@ Jul 21, 2023 - Completed TOP javascript exercise 9 & 10.
 
 Jul 24, 2023 - Completed TOP javascript exercise 11 & 12.
 
-Jul 26, 2023 - TOP Lesson - DOM Manipulation and Events
+Jul 26, 2023 - TOP Lesson - DOM Manipulation and Events.
+
+Jul 31, 2023 - DOM Manipulation and Events Lesson Completed. Introduction to WesBos 30 day JavaScript exercises. 
 
