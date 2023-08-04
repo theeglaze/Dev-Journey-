@@ -100,3 +100,5 @@ Jul 31, 2023 - DOM Manipulation and Events Lesson Completed. Introduction to Wes
 
 Aug 1, 2023 - Investigating additional information on DOM Manipulation and Events.
 
+Aug 4, 2023 - Investigating additional information on DOM Events and Event Handlers. 
+
