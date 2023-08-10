@@ -104,4 +104,6 @@ Aug 4, 2023 - Investigating additional information on DOM Events and Event Handl
 
 Aug 7, 2023 - TOP EXERCISE: Adding user interface to rock paper scissors game. The game will no longer be played from the console but with the use of buttons. Modifications to DOM are used to inform the user what is taking place. 
 
-Aug 8, 2023 - Rock Paper Scissors Update: Further DOM modifications used ti inform the user.  
+Aug 8, 2023 - Rock Paper Scissors Update: Further DOM modifications used to inform the user. 
+
+Aug 9, 2023 - Rock Paper Scissors Update: Introduction and modification of several functions to achieve desired DOM changes. Additionally minor css and html updates.  
