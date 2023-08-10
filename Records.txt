@@ -106,4 +106,10 @@ Aug 7, 2023 - TOP EXERCISE: Adding user interface to rock paper scissors game. T
 
 Aug 8, 2023 - Rock Paper Scissors Update: Further DOM modifications used to inform the user. 
 
-Aug 9, 2023 - Rock Paper Scissors Update: Introduction and modification of several functions to achieve desired DOM changes. Additionally minor css and html updates.  
+Aug 9, 2023 - Rock Paper Scissors Update: Introduction and modification of several functions to achieve desired DOM changes. Additionally minor css and html updates. 
+
+Aug 10, 2023 - Rock Paper Scissors Update:
+
+1. DOM message sequencing fixed - The issues arising during the adding and removing of info paragraphs to the body has been resolved. 
+
+2. Issue: Event Listener still executing while the handler is processing the subsequent script. 
