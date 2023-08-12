@@ -113,3 +113,13 @@ Aug 10, 2023 - Rock Paper Scissors Update:
 1. DOM message sequencing fixed - The issues arising during the adding and removing of info paragraphs to the body has been resolved. 
 
 2. Issue: Event Listener still executing while the handler is processing the subsequent script. 
+
+Aug 11, 2023 - Rock Paper scissors Update - Devising Solutions For Issue 2: 
+
+After much research it has been deduced that event listeners can not be paused or stopped for event handler to execute - At least not by traditional means. 
+
+Then how may the event listener not prompt the re-execution of the script while the script is underway ? 
+
+The solution currently being considered is to disable the buttons while the handler is executing - this reduces the chance of a logical error.  
+
+Note: element.removeEventListener() does not fit this situation. 
