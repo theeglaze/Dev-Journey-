@@ -123,3 +123,9 @@ Then how may the event listener not prompt the re-execution of the script while 
 The solution currently being considered is to disable the buttons while the handler is executing - this reduces the chance of a logical error.  
 
 Note: element.removeEventListener() does not fit this situation. 
+
+Aug 14, 2023 - Rock Paper Scissors Update:
+
+All issues were resolved and the script now operates as intended.
+
+Additionally, notes were created from the materials which aided in developing a of suitable solution. 
